@@ -1,0 +1,1 @@
+print("🚀 MADTRANS Bot iniciado")
